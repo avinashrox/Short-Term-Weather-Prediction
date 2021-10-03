@@ -23,9 +23,7 @@ The programs were evaluated on Python 3.6 with the following versions of the dep
 
 1. Clone this repository  
 `git clone https://github.com/avinashrox/Short-Term-Weather-Prediction.git`
-2. Prepare the dataset
-	Download the CNRPark+EXT dataset and separate it into training, validation and test sets in:  
-	*./train/dataset/carpark/training_set/*, *./train/dataset/carpark/valid_set/*, and *./train/dataset/carpark/set_set/*
+2. Prepare the dataset:
 	The training dataset is available at *./TrichyWeatherDataWindspeed/2016/csv/20162.csv*.
 	The test dataset is available at */TrichyWeatherDataWindspeed/Formatted/20167.csv*.
 3. Execute weather_prediction.ipynb in jupyter notebook for training the model with 2016 data and testing it with 2017 data.
