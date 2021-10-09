@@ -26,4 +26,4 @@ The programs were evaluated on Python 3.6 with the following versions of the dep
 2. Prepare the dataset:
 	The training dataset is available at *./TrichyWeatherDataWindspeed/2016/csv/20162.csv*.
 	The test dataset is available at */TrichyWeatherDataWindspeed/Formatted/20167.csv*.
-3. Execute weather_prediction.ipynb in jupyter notebook for training the model with 2016 data and testing it with 2017 data.
+3. Execute *weather_prediction_4hours.ipynb* in jupyter notebook for training the model with 2016 data and testing it with 2017 data.
